@@ -1,0 +1,5 @@
+# Word Meaning and Definition Library
+PyDictionary==2.0.1
+
+# Standard library modules (tkinter, sqlite3, random, time, threading, urllib) 
+# are built-in and do not need to be listed here.
